@@ -1,1 +1,4 @@
 Dòng 1: Nội dung của Master
+=======
+Dòng 1: Nội dung của Test Conflict
+>>>>>>> test_conflict
